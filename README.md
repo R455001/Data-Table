@@ -1,1 +1,1 @@
-# CollapsibleTable
+# Data Table
